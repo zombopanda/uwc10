@@ -1,0 +1,37 @@
+.cols > div {
+    width: 30%;
+    float: left;
+    margin: 0 20px;
+}
+
+.error {
+    color: #E80000;
+}
+
+.time {
+    margin: 10px 0;
+    font-size: 12px;
+    color: #736262;
+}
+
+.cols > div > p {
+    margin: 5px 0;
+}
+
+textarea#code {
+    width: 100%;
+    display: block;
+    height: 250px;
+    border: 1px solid #C7C7C7;
+}
+
+#result {
+    border: 1px solid #C7C7C7;
+    height: 238px;
+    padding: 6px 10px;
+}
+
+#run {
+    margin-top: 7px;
+    padding: 6px 15px;
+}
